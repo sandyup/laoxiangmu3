@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "/faucetapi/*"
+  to = "https://staging-prealpha.scroll.io/faucet/:splat"
+
+[[redirects]]
+  from = "/early-dev"
+  to = "https://scrollzkp.typeform.com/early-dev"
+
+[[redirects]]
+  from = "/whitelist/*"
+  to = "https://staging-prealpha.scroll.io/whitelist/:splat"
+
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200
+
